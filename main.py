@@ -1,5 +1,3 @@
-import numpy as np
-
 from myModel import *
 from myDataset import *
 from tqdm import tqdm, trange
